@@ -1,0 +1,31 @@
+[
+  {
+    "_id": { "$oid": "6458f2660370b02a293449c1" },
+    "title": "The Terrible Head Coach",
+    "thumbnail": "hunter.jpg",
+    "slug": "the-terrible-head-coach",
+    "description": "Created By Eric Ten Hag",
+    "stars": "5",
+    "category": ["romance", "science"]
+  },
+
+  {
+    "_id": { "$oid": "6458f2660370b02a293497c2" },
+    "title": "The able Girl",
+    "thumbnail": "girl.jpg",
+    "slug": "the-able-girl",
+    "description": "Created By Fave",
+    "stars": "5",
+    "category": ["crime", "food"]
+  },
+
+  {
+    "_id": { "$oid": "6458f2660370b02a29123e4" },
+    "title": "The Terrible assistant Head Coach",
+    "thumbnail": "hunter1.jpg",
+    "slug": "the-terrible-assistant-head-coach",
+    "description": "Created By Eric Ten Hag Staff",
+    "stars": "5",
+    "category": ["romance", "sports"]
+  }
+]
